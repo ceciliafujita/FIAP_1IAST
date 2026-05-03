@@ -3,7 +3,10 @@ Trabalhos do Curso IA Scientist 1IAST
 
 ## Tech Challenge Fase 1: 
 Criação: 2/4/2026
+
 Prazo de entrega: 5/4/2026
+
+
 ### Referencia:
 https://github.com/AnaRaquelCafe/POSTECH_AI_SCIENTIST/tree/main
 
