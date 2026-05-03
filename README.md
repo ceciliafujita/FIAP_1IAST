@@ -24,9 +24,13 @@ pedro.phelippe123@gmail.com
 
 ## Case NPS Preditivo
 
+### Descrição do Projeto
+https://github.com/ceciliafujita/FIAP_1IAST#:~:text=8%20minutes%20ago-,TECH%20CHALLENGE.pdf,-Add%20files%20via
+
 ### Objetivo do Projeto
 O Case trata de um e-commerce que tem crescido e está querendo entender o porque do aumento expressivo de tantos detratores.
 O objetivo é fazer uma análise detalhada da base de dados e gerar insights que explicam essa queda da nota do NPS e que ajudem a propor soluções. 
+A descrição do problema e a respostas das primeiras perguntas estão no documento descritivo do projeto https://github.com/ceciliafujita/FIAP_1IAST#:~:text=8%20minutes%20ago-,TECH%20CHALLENGE.pdf,-Add%20files%20via.
 
 ### Base de Dados
 https://github.com/ceciliafujita/FIAP_1IAST/blob/main/desafio_nps_fase_1.csv
