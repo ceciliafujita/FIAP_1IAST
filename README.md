@@ -47,7 +47,7 @@ Fizemos uma distribução de notas do NPS por dias de atraso e uma distribuiçã
 Por último, usamos uma regressão linear que nos ajuda a ver a probabilidade de um cliente se tornar detrator devido ao tempo de atraso e identificar o dia crítico onde a insatisfação supera 50%.
 
 ### Como reproduzir os resultados
-O estudo foi gerado no Colab (https://colab.research.google.com/) e se encontra no notebook citado acima. Para reproduzir os dados, basta abrir pelo git o notebook no Colab e copiar a base de dados na raiz principal. Todas as análieses poderão ser processadas normalmente. 
+O estudo foi gerado no Colab (https://colab.research.google.com/) e se encontra no notebook citado acima. Para reproduzir os dados, basta abrir pelo git o notebook no Colab e copiar a base de dados na raiz principal. Todas as análises poderão ser visualizadas e processadas normalmente. 
 
 
 
