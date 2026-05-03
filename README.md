@@ -23,6 +23,6 @@ pedro.phelippe123@gmail.com
 
 ### Notebook
 https://github.com/ceciliafujita/FIAP_1IAST/tree/main#:~:text=IAST1_TechChallenge_Fase1.ipynb
-### Base
+### Base de Dados
 https://github.com/ceciliafujita/FIAP_1IAST/blob/main/desafio_nps_fase_1.csv
 
