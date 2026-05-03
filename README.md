@@ -10,7 +10,7 @@ Prazo de ntrega: 5/4/2026
 ceciliafujita@gmail.com
 
 + Natalia Pereira de Lima
-nathalianihal@gmail.com 
+delima.nataliapereira@gmail.com
 
 + Pedro Phelippe Lima da Silva
 pedro.phelippe123@gmail.com
