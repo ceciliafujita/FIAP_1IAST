@@ -7,7 +7,7 @@ Criação: 2/4/2026
 Prazo de entrega: 5/4/2026
 
 
-### Referencia:
+### Referência:
 https://github.com/AnaRaquelCafe/POSTECH_AI_SCIENTIST/tree/main
 
 ### Grupo:
@@ -39,7 +39,7 @@ A base disponibilizada no link acima tem 2500 linhas de dados e 19 colunas. A ba
 Os demais detalhes sobre ela podem ser encontradas no início do notebook.
 
 ### Notebook
-https://github.com/ceciliafujita/FIAP_1IAST/tree/main#:~:text=IAST1_TechChallenge_Fase1.ipynb
+https://github.com/ceciliafujita/FIAP_1IAST/tree/main#:~:text=IAST1_TechChallenge_Fase1_notebook.ipynb
 
 ### Metodologia utilizada
 Foram feitas análises exploratórias sobre os dados, uma matriz de correlação entre as variáveis e estudo sobre essas correlações para entender quais variáveis possuíam maior vínculo. O Atraso na entrega aresentou a correlação mais forte e negativa com a satisfação do cliente.
@@ -59,9 +59,14 @@ https://github.com/ceciliafujita/FIAP_1IAST/blob/main/TC%20-%20Fase1%20-%20Respo
 https://www.canva.com/design/DAHIqrwKRk4/MUhQqD7W66cR2x7uAe9yhg/edit
 
 #### PDF do Canvas
-https://github.com/ceciliafujita/FIAP_1IAST/blob/main/TC%20-%20Fase1%20-%20Apresentac%CC%A7a%CC%83o.pdf
- 
+https://github.com/ceciliafujita/FIAP_1IAST/tree/main#:~:text=Case%20NPS%20%2D%20Fase%201%20%2D%20Tech%20Challenge_canvas.pdf
 
+### Vídeo da Apresentação
+https://www.canva.com/design/DAHIqrwKRk4/QFeVC0wSz-C78ZTLzdqvSg/view?utm_content=DAHIqrwKRk4&utm_campaign=designshare&utm_medium=link&utm_source=recording_view 
+https://github.com/ceciliafujita/FIAP_1IAST#:~:text=2%20hours%20ago-,apresentac%CC%A7a%CC%83o1.mp4,-Add%20files%20via
+
+## Arquivo de entrega
+https://github.com/ceciliafujita/FIAP_1IAST#:~:text=1%20IAST%20%2D%20Tech%20Challenge%20%2D%20fase1%20%2D%20entrega.pdf
 
 
 
