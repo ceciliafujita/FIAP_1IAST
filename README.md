@@ -53,7 +53,7 @@ O estudo foi gerado no Colab (https://colab.research.google.com/) e se encontra 
 ## Apresentação
 
 ### Respostas 1 e 2 do Case
-https://github.com/ceciliafujita/FIAP_1IAST/blob/main/TC%20-%20Fase1%20-%20Respostas_1e2.pdf 
+https://github.com/ceciliafujita/FIAP_1IAST/blob/main/TC%20-%20Fase1%20-%20Respostas.pdf
 
 ### Canvas
 https://www.canva.com/design/DAHIqrwKRk4/MUhQqD7W66cR2x7uAe9yhg/edit
