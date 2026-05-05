@@ -25,7 +25,7 @@ pedro.phelippe123@gmail.com
 ## Case NPS Preditivo
 
 ### Descrição do Projeto
-https://github.com/ceciliafujita/FIAP_1IAST#:~:text=8%20minutes%20ago-,TECH%20CHALLENGE.pdf,-Add%20files%20via
+https://github.com/ceciliafujita/FIAP_1IAST#:~:text=1IAST%20%2D%20Fase%201%20%2D%20Tech%20Challenge%20(1).pdf
 
 ### Objetivo do Projeto
 O Case trata de um e-commerce que tem crescido e está querendo entender o porque do aumento expressivo de tantos detratores.
@@ -48,6 +48,20 @@ Por último, usamos uma regressão linear que nos ajuda a ver a probabilidade de
 
 ### Como reproduzir os resultados
 O estudo foi gerado no Colab (https://colab.research.google.com/) e se encontra no notebook citado acima. Para reproduzir os dados, basta abrir pelo git o notebook no Colab e copiar a base de dados na raiz principal. Todas as análises poderão ser visualizadas e processadas normalmente. 
+
+
+## Apresentação
+
+### Respostas 1 e 2 do Case
+https://github.com/ceciliafujita/FIAP_1IAST/blob/main/TC%20-%20Fase1%20-%20Respostas_1e2.pdf 
+
+### Canvas
+https://www.canva.com/design/DAHIqrwKRk4/MUhQqD7W66cR2x7uAe9yhg/edit
+
+#### PDF do Canvas
+https://github.com/ceciliafujita/FIAP_1IAST/blob/main/TC%20-%20Fase1%20-%20Apresentac%CC%A7a%CC%83o.pdf
+ 
+
 
 
 
